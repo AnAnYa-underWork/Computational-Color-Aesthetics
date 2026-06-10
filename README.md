@@ -1,4 +1,3 @@
-````markdown
 # Computational Color Aesthetics
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
