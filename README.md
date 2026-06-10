@@ -140,6 +140,15 @@ Palette Recommendation
 ---
 
 ## Results
+<p align="center">
+  <img src="results/C_Uploaded_Image.png" width="700">
+</p>
+<p align="center">
+  <img src="results/C_Generated_Pallete.png" width="700">
+</p>
+<p align="center">
+  <img src="results/C_Prediction.png" width="700">
+</p>
 
 ### Dominant Color Extraction
 
