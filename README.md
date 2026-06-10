@@ -52,6 +52,10 @@ This project addresses that gap by developing an automated pipeline capable of:
 
 ## Methodology
 
+<p align="center">
+  <img src="project%20architechture.png" width="800">
+</p>
+
 ### 1. Image Preprocessing
 
 - Input RGB image acquisition
